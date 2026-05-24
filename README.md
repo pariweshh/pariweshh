@@ -1,97 +1,107 @@
+<div align="center">
 
+# Hi 👋 I'm Pariwesh
 
-###
+### Full Stack & AI Developer based in Sydney, Australia 🇦🇺
+
+<a href="https://www.ptamrakar.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/pariweshhtamrakar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:pariweshtamrakar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=pariweshtamr&style=for-the-badge&color=0e75b6" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Building modern full-stack web experiences and AI-powered apps
+- 🧠 Currently focused on Python, Gen AI, LLM workflows, and automation
+- ⚡ Working with Next.js, React, TypeScript, Node.js, and AI tooling
+- 🌏 Based in Sydney, Australia
+- 📈 Continuously improving UI/UX, performance, and scalable architectures
+
+---
+
+## 🛠 Tech Stack & Tools
 
 <div align="center">
-  <a href="https://www.ptamrakar.dev" target="_blank" rel="noreferrer nofollow noopener">
-    <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="25" alt="portfolio logo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pariweshhtamrakar/" target="_blank" rel="noreferrer nofollow noopener">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:pariweshtamrakar@gmail.com" target="_blank" rel="noreferrer nofollow noopener">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,redux,git,github,figma,vscode,npm&perline=10" />
+
 </div>
 
-###
+---
+
+## 🤖 AI & Gen AI Tools
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pariweshtamr.pariweshtamr&"  />
+
+<img src="https://skillicons.dev/icons?i=py" height="50" />
+
+<br />
+
+<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gen_AI_Workflows-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=for-the-badge" />
+
 </div>
 
-###
+---
 
-<h1 align="left">Hi 👋 My name is Pariweshh</h1>
+## 🚧 Currently Working On
 
-###
+- ✨ AI-integrated web applications
+- 🎬 Advanced frontend animations and interactive experiences
+- ⚙️ Automation tools and developer workflows
+- 🧩 Modern portfolio and ecommerce experiences
+- 🧠 Exploring advanced LLM integrations and AI agents
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
-
-<p align="left">🔭 I’m working as a Freelance developer<br>🌍 I'm based in Sydney, Australia<br>📚 I'm currently learning advanced Python and Gen AI to level up my skills<br>
-
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="36" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="36" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="36" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="36" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="36" alt="sass logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescipt logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="36" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="36" alt="redux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="36" alt="npm logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="36" alt="trello logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pariweshtamr&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=pariweshtamr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariweshtamr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+  height="165"
+/>
+
 </div>
 
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pariweshtamr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pariweshtamr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img
+  src="https://streak-stats.demolab.com?user=pariweshtamr&theme=tokyonight&hide_border=true&border_radius=10"
+/>
+
 </div>
 
-###
+---
+
+<div align="center">
+
+### Thanks for visiting ✨
+
+</div>
