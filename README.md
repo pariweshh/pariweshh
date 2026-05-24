@@ -12,14 +12,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:pariweshtamrakar@gmail.com">
+<a href="mailto:pariweshhakar@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=pariweshtamr&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=pariweshh&style=for-the-badge&color=0e75b6" />
 
 </div>
 
@@ -77,12 +77,12 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=pariweshtamr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api?username=pariweshh&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
   height="165"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariweshtamr&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariweshh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
   height="165"
 />
 
@@ -93,7 +93,7 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=pariweshtamr&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://streak-stats.demolab.com?user=pariweshh&theme=tokyonight&hide_border=true&border_radius=10"
 />
 
 </div>
