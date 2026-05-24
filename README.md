@@ -1,91 +1,98 @@
 <div align="center">
 
-# Hi 👋 I'm Pariwesh
+# Pariwesh
 
-### Full Stack & AI Developer based in Sydney, Australia 🇦🇺
+### Full Stack Developer • AI Engineer • Creative Technologist
+
+<p>
+Building high-performance web experiences, AI-powered products,  
+and visually polished interfaces with modern technologies.
+</p>
+
+<br />
 
 <a href="https://www.ptamrakar.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/pariweshhtamrakar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:pariweshhakar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:pariweshtamrakar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=pariweshh&style=for-the-badge&color=0e75b6" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 Building modern full-stack web experiences and AI-powered apps
-- 🧠 Currently focused on Python, Gen AI, LLM workflows, and automation
-- ⚡ Working with Next.js, React, TypeScript, Node.js, and AI tooling
-- 🌏 Based in Sydney, Australia
-- 📈 Continuously improving UI/UX, performance, and scalable architectures
+```ts
+const pariwesh = {
+  location: "Sydney, Australia",
+  focus: [
+    "Full Stack Development",
+    "AI Integrations",
+    "LLM Workflows",
+    "Frontend Architecture",
+    "Creative Development"
+  ],
+  currentlyBuilding: [
+    "AI-powered web applications",
+    "Advanced animation systems",
+    "Interactive ecommerce experiences",
+    "Developer workflow automations"
+  ],
+  technologies: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    ai: ["OpenAI", "Claude", "Gen AI", "Prompt Engineering"],
+    tools: ["Git", "Figma", "Firebase", "Vercel"]
+  }
+}
+```
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,python,react,nextjs,nodejs,express,mongodb,firebase,redux,git,github,figma,vscode,npm&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,nodejs,express,mongodb,firebase,tailwind,sass,figma,git,github,vscode&perline=5" />
 
 </div>
 
 ---
 
-## 🤖 AI & Gen AI Tools
+## AI & Emerging Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py" height="50" />
-
-<br />
-
-<img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gen_AI_Workflows-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI_GPT-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Workflows-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Automation-0D1117?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚧 Currently Working On
-
-- ✨ AI-integrated web applications
-- 🎬 Advanced frontend animations and interactive experiences
-- ⚙️ Automation tools and developer workflows
-- 🧩 Modern portfolio and ecommerce experiences
-- 🧠 Exploring advanced LLM integrations and AI agents
-
----
-
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
 <img
+  height="170"
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=pariweshh&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
 />
 
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pariweshh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-  height="165"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pariweshh&layout=compact&theme=tokyonight&hide_border=true"
 />
-
 
 </div>
 
@@ -94,15 +101,31 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=pariweshh&theme=tokyonight&hide_border=true&border_radius=10"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pariweshh&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
 ---
 
+## Current Focus
+
+- Building AI-native applications with modern UX
+- Exploring advanced LLM orchestration & automation
+- Creating highly interactive frontend experiences
+- Optimizing performance, scalability, and developer experience
+- Designing visually refined digital products
+
+---
+
+## Philosophy
+
+> Great software should feel effortless, intelligent, and beautifully crafted.
+
+---
+
 <div align="center">
 
-### Thanks for visiting ✨
+<img src="https://komarev.com/ghpvc/?username=pariweshh&style=flat-square&color=blue" />
 
 </div>
