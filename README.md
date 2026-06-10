@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pariwesh
+# Pariwesh Tamrakar
 
 ### Full Stack Developer • AI Engineer • Creative Technologist
 
